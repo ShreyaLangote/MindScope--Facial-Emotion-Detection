@@ -33,6 +33,8 @@ PyTorch – for building and training the CNN model
 
 OpenCV – for real-time face detection and video processing
 
+we can upload the data of the human faces making various expressions to train this model.
+
 Torchvision & PIL – for image preprocessing
 
 Haar Cascade – for face detection
